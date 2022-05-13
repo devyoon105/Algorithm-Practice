@@ -5,9 +5,9 @@
 //  Created by 김동윤 on 2022/05/14.
 //
 
-//2557
+//10718
 
 import Foundation
 
-print("Hello, World!")
-
+print("강한친구 대한육군")
+print("강한친구 대한육군")
